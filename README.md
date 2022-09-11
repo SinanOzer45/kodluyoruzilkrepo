@@ -3,8 +3,8 @@ Bu repo Kodluyoruz Front-End Eğitiminde ürünümüz ilk repo. İçerisinde bir
 ![ilk repo picture](https://user-images.githubusercontent.com/106543738/189530446-717c2171-a40b-4089-9c36-aec10c5f9905.PNG)
 
 
-Installation
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+⫘Kurulum
+projeyi klonlayın. (Buraya size repomuzdan link gelecek)
 
 https://githup.com/SinanOzer45/kodluyoruzilkrepo.git
 Usage
